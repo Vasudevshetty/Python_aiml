@@ -7,3 +7,5 @@ Currently completed: Data Analysis: Numpy & Pandas. Onto, Data Visulasation: ...
 Matplotlib done.
 
 Matplotlib going on !!!!
+
+Shifed to Andrew NG's courses, #best of best
