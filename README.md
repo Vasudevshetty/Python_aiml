@@ -8,4 +8,5 @@ Matplotlib done.
 
 Matplotlib going on !!!!
 
-Shifed to Andrew NG's courses, #best of best
+Shifed to Andrew NG's courses, #best of best1
+on teh way to complete logistic regression.
